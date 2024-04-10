@@ -1,11 +1,7 @@
 Forbeslist 2022 and Water Crisis Analysis in MAJI NDOGO
+
 This repository contains an analysis of Forbeslist 2022 data and a study that led to solutions to the water crisis in MAJI NDOGO, an AI-generated country experiencing severe water scarcity. The analyses were conducted using Jupyter Notebook kernels, employing Python libraries such as pandas for data manipulation and analysis.
 
-Contents
-Introduction
-Forbeslist 2022 Analysis
-Water Crisis in MAJI NDOGO
-Technologies Used
 
 
 Introduction
